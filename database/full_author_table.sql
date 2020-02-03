@@ -1,0 +1,16 @@
+INSERT INTO `full_author_table` VALUES (110, 'FAU', 'Khuntikeo, Narong\r\n', 36);
+INSERT INTO `full_author_table` VALUES (111, 'FAU', 'Koonmee, Supinda\r\n', 36);
+INSERT INTO `full_author_table` VALUES (112, 'FAU', 'Sa-Ngiamwibool, Prakasit\r\n', 36);
+INSERT INTO `full_author_table` VALUES (113, 'FAU', 'Chamadol, Nittaya\r\n', 36);
+INSERT INTO `full_author_table` VALUES (114, 'FAU', 'Laopaiboon, Vallop\r\n', 36);
+INSERT INTO `full_author_table` VALUES (115, 'FAU', 'Titapun, Attapol\r\n', 36);
+INSERT INTO `full_author_table` VALUES (116, 'FAU', 'Yongvanit, Puangrat\r\n', 36);
+INSERT INTO `full_author_table` VALUES (117, 'FAU', 'Loilome, Watcharin\r\n', 36);
+INSERT INTO `full_author_table` VALUES (118, 'FAU', 'Namwat, Nisana\r\n', 36);
+INSERT INTO `full_author_table` VALUES (119, 'FAU', 'Andrews, Ross H\r\n', 36);
+INSERT INTO `full_author_table` VALUES (120, 'FAU', 'Petney, Trevor N\r\n', 36);
+INSERT INTO `full_author_table` VALUES (121, 'FAU', 'Thinkhamrop, Kavin\r\n', 36);
+INSERT INTO `full_author_table` VALUES (122, 'FAU', 'Chaichaya, Nathaphop\r\n', 36);
+INSERT INTO `full_author_table` VALUES (123, 'FAU', 'Tawarungruang, Chaiwat\r\n', 36);
+INSERT INTO `full_author_table` VALUES (124, 'FAU', 'Thuanman, Jaruwan\r\n', 36);
+INSERT INTO `full_author_table` VALUES (125, 'FAU', 'Thinkhamrop, Bandit\r\n', 36);

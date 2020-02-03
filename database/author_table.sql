@@ -1,0 +1,16 @@
+INSERT INTO `author_table` VALUES (228, 'Khuntikeo N\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (229, 'Koonmee S\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (230, 'Sa-Ngiamwibool P\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (231, 'Chamadol N\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (232, 'Laopaiboon V\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (233, 'Titapun A\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (234, 'Yongvanit P\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (235, 'Loilome W\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (236, 'Namwat N\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (237, 'Andrews RH\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (238, 'Petney TN\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (239, 'Thinkhamrop K\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (240, 'Chaichaya N\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (241, 'Tawarungruang C\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (242, 'Thuanman J\r\n', 36, 'AU');
+INSERT INTO `author_table` VALUES (243, 'Thinkhamrop B\r\n', 36, 'AU');
